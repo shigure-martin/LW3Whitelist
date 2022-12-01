@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+address on goerli is: 0xF6aE9e22739b12088646A08F19cb78040b63B284
